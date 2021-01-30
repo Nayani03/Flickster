@@ -1,1 +1,1 @@
-This is E-commerce app using augmented reality which helps users to view the products in a better way.
+This is E-commerce app  which helps users to view and purchase the products in a better way.
